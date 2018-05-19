@@ -121,7 +121,10 @@
                 "doc = nlp(\"I am some really difficult text to read because I use obnoxiously large words.\")",
                 "doc._.flesch_kincaid_grade_level",
                 "doc._.flesch_kincaid_reading_ease",
-                "doc._.dale_chall"
+                "doc._.dale_chall",
+                "doc._.smog",
+                "doc._.coleman_liau_index",
+                "doc._.automated_readability_index"
             ],
             "author": "Michael Holtzscher",
             "author_links": {
